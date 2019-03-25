@@ -1,0 +1,6 @@
+﻿token=NTU5NzQ2ODY1NTQ2MTMzNTE0.D3qGBg.kaRMCb2ftU6mqzGk5_pQ8tZRwZE
+owner=385026736988880907 
+prefix= 1
+game= 1play ,Dc Clan .
+stayinchannel=true
+songinstatus=true 
